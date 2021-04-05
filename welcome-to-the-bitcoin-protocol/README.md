@@ -7,6 +7,9 @@ Our study groups assume a basic level of Bitcoin protocol knowledge. If you have
 
 <hr>
 
+
+**Introduction to Bitcoin Protocol Development**
+
 The first module is an overview of history, security, scaling, and Bitcoin Core development. To consume all the material will take you approximately 3 hours.
 
 | Content                                                                                       | Time  | Tags                    |
