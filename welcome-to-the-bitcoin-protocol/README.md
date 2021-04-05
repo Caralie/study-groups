@@ -1,6 +1,6 @@
 # Welcome to the Bitcoin Protocol Development Seminar
 
-*These study groups assume a basic level of Bitcoin protocol knowledge. You should begin with reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) before starting with these resources.*
+*Our seminars assume a basic level of Bitcoin protocol knowledge. You should begin with reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) before starting with these resources.*
 
 The first module is an overview of history, security, scaling, and Bitcoin Core development. To consume all the material will take you approximately 3 hours.
 
@@ -18,7 +18,7 @@ The first module is an overview of history, security, scaling, and Bitcoin Core 
 [Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 15 min | whitepaper |
 [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 10 min | history |
 
-#### Discussion Questions
+#### Discussion Question
 
 1. How have show-stopping bugs or disruptions to the network been handled in the past?
 
