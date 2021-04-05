@@ -1,8 +1,8 @@
-# Study Groups for protocol developers
+# Seminars for protocol developers
 
 ### Please consider adding resources keep these sessions lists fresh. PRs welcome!
 
-Each individual directory represents a weekly study group.
+Each individual directory represents a unique module and a week in our guided seminars. These resources are available for anyone wanting to review them at their own pace.
 
 ### Bitcoin
 
