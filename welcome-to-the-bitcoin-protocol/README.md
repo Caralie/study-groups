@@ -1,6 +1,11 @@
 # Welcome to the Bitcoin Protocol Development Seminar
 
-*Our seminars assume a basic level of Bitcoin protocol knowledge. You should begin with reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) before starting with these resources.*
+
+Chaincode Labs is a Bitcoin research and development center, passionate about progress of the Bitcoin network and providing resources for innovators in its ecosystem. [The Chaincode Residency](https://residency.chaincode.com) was created for engineers to develop experience with Bitcoin. This study group is comprised of pre-work material for our residencies and is designed for aspiring protocol developers. 
+
+Our study groups assume a basic level of Bitcoin protocol knowledge. If you haven't reviewed [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)you should begin there before starting with these resources.
+
+<hr>
 
 The first module is an overview of history, security, scaling, and Bitcoin Core development. To consume all the material will take you approximately 3 hours.
 
